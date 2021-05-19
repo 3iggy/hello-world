@@ -1,4 +1,6 @@
 # hello-world
 starting with GitHub
-secondary test
-no tutorials
+
+testing complete
+
+Procede with new project
